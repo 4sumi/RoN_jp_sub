@@ -1,4 +1,7 @@
 Key,Dialogue,Context
+[BARK]ArrestIdle_0,住所を間違えてない？,
+[BARK]ArrestIdle_1,息子が何かした？答えてよ！,
+[BARK]ArrestIdle_2,薬を飲まないといけないの！,
 [BARK]Arrested_0,（うめき声）,
 [BARK]Arrested_1,痛い！,
 [BARK]Arrested_2,どうなってるの？,
@@ -8,9 +11,6 @@ Key,Dialogue,Context
 [BARK]Arrested_6,それで、これって…何の容疑？,
 [BARK]Arrested_7,ちょっと、私が何をしたっていうの？,
 [BARK]Arrested_8,息子たちに聞いて！ここには何もない！,
-[BARK]ArrestIdle_0,住所を間違えてない？,
-[BARK]ArrestIdle_1,息子が何かした？答えてよ！,
-[BARK]ArrestIdle_2,薬を飲まないといけないの！,
 [BARK]Bashed_0,（苦痛に満ちた叫び声）,
 [BARK]Bashed_1,（苦痛に満ちた叫び声）,
 [BARK]Bashed_2,（苦痛に満ちた叫び声）,
