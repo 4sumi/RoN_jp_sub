@@ -600,62 +600,62 @@ Key,Dialogue,Context
 [CALL]SCCShotgunClearLauncher_1,ドアをブリーチし、ランチャーで制圧しろ。,Ordering team to blow a door and clear with a launcher grenade
 [CALL]SCCShotgunClearLauncher_2,ドアにショットガンを使い、部屋にグレネードを撃ち込め。,Ordering team to blow a door and clear with a launcher grenade
 [CALL]SCCShotgunClearLauncher_3,ランチャーで吹き飛ばして制圧しろ。,Ordering team to blow a door and clear with a launcher grenade
-[CALL]SCCShotgunClearLeader_0,合図を待って爆破して制圧しろ。,"Swat breaches with shotgun on the door, once breached the squad leader will throw a grenade into the room"
-[CALL]SCCShotgunClearLeader_1,合図を待って吹き飛ばして制圧しろ,"Swat breaches with shotgun on the door, once breached the squad leader will throw a grenade into the room"
-[CALL]SCCShotgunClearLeader_2,合図を待て。ショットガンで突入して制圧だ,"Swat breaches with shotgun on the door, once breached the squad leader will throw a grenade into the room"
-[CALL]SCCShotgunClearLeader_3,ショットガンで突入し、合図を待って制圧だ,"Swat breaches with shotgun on the door, once breached the squad leader will throw a grenade into the room"
+[CALL]SCCShotgunClearLeader_0,ドアを吹き飛ばし、合図を待って突入しろ。,"Swat breaches with shotgun on the door, once breached the squad leader will throw a grenade into the room"
+[CALL]SCCShotgunClearLeader_1,吹き飛ばして合図ののち制圧しろ,"Swat breaches with shotgun on the door, once breached the squad leader will throw a grenade into the room"
+[CALL]SCCShotgunClearLeader_2,ショットガンで突入して制圧だ。合図を待て,"Swat breaches with shotgun on the door, once breached the squad leader will throw a grenade into the room"
+[CALL]SCCShotgunClearLeader_3,ショットガンでブリーチ、合図を待って突入だ,"Swat breaches with shotgun on the door, once breached the squad leader will throw a grenade into the room"
 [CALL]SCCShotgunClearLeader_4,鍵を吹き飛ばし、合図を待って部屋の制圧だ,"Swat breaches with shotgun on the door, once breached the squad leader will throw a grenade into the room"
-[CALL]SCCShotgunClearLeader_5,ショットガンを展開し、合図を待って制圧しろ,"Swat breaches with shotgun on the door, once breached the squad leader will throw a grenade into the room"
-[CALL]SCCShotgunClearStinger_0,鍵を吹き飛ばせ。そしてスティンガーで制圧だ。,Ordering team to blow a door and clear with flash grenade
+[CALL]SCCShotgunClearLeader_5,ショットガンを使用し、合図を待って突入しろ,"Swat breaches with shotgun on the door, once breached the squad leader will throw a grenade into the room"
+[CALL]SCCShotgunClearStinger_0,鍵を壊して、スティンガーで制圧だ。,Ordering team to blow a door and clear with flash grenade
 [CALL]SCCShotgunClearStinger_1,ドアを吹き飛ばしてスティンガーで制圧する。,Ordering team to blow a door and clear with flash grenade
-[CALL]SCCShotgunClearStinger_2,鍵を解除し、スティンガーをぶち込め。,Ordering team to blow a door and clear with flash grenade
+[CALL]SCCShotgunClearStinger_2,鍵を吹き飛ばして、スティンガーを投げ込め。,Ordering team to blow a door and clear with flash grenade
 [CALL]SCCShotgunClearStinger_3,ドアを吹き飛ばして、スティンガーを投げろ。,Ordering team to blow a door and clear with flash grenade
-[CALL]SCCShotgunClearStinger_4,ショットガンを使って、スティンガーを投げろ。,Ordering team to blow a door and clear with flash grenade
+[CALL]SCCShotgunClearStinger_4,ショットガン、スティンガーを使え。,Ordering team to blow a door and clear with flash grenade
 [CALL]SCCShotgunClearStinger_5,吹き飛ばしてスティンガーで制圧だ。,Ordering team to blow a door and clear with flash grenade
 [CALL]SCCheckDoorS_0,鍵をチェックしろ。,
 [CALL]SCCheckDoorS_1,鍵を試してみよう。,
 [CALL]SCCheckDoorS_2,ロックアウトをテストしろ。,
-[CALL]SCCheckDoorS_3,ドアを開けてみてくれ。,
-[CALL]SCCheckDoorS_4,覗いてみてくれ。,
+[CALL]SCCheckDoorS_3,ドアを試してくれ。,
+[CALL]SCCheckDoorS_4,鍵を試してくれ。,
 [CALL]SCCheckDoorS_5,ドアをチェックしろ。,
 [CALL]SCCheckDoorS_6,そのドアを確認しろ。,
 [CALL]SCCheckDoor_0,鍵をチェックしろ。,Ordering team to inspect a door
 [CALL]SCCheckDoor_1,鍵を試してみよう。,Ordering team to inspect a door
 [CALL]SCCheckDoor_2,ロックアウトをテストしろ。,Ordering team to inspect a door
-[CALL]SCCheckDoor_3,ドアを開けてみてくれ。,Ordering team to inspect a door
-[CALL]SCCheckDoor_4,鍵を試してみよう。,Ordering team to inspect a door
+[CALL]SCCheckDoor_3,ドアを試してくれ。,Ordering team to inspect a door
+[CALL]SCCheckDoor_4,鍵を試してくれ。,Ordering team to inspect a door
 [CALL]SCCheckDoor_5,ドアをチェックしろ。,Ordering team to inspect a door
 [CALL]SCCheckDoor_6,そのドアを確認しろ。,Ordering team to inspect a door
 [CALL]SCCheckForTrapS_0,ミラーで罠を探せ。,
 [CALL]SCCheckForTrapS_1,オプティワンドで罠をチェックしろ。,
-[CALL]SCCheckForTrapS_10,カメラだ。,
-[CALL]SCCheckForTrapS_11,ポールカメラだ。,
-[CALL]SCCheckForTrapS_12,デバイスを展開しろ。,
+[CALL]SCCheckForTrapS_10,カメラを。,
+[CALL]SCCheckForTrapS_11,ポールカメラを。,
+[CALL]SCCheckForTrapS_12,カメラで覗いてくれ。,
 [CALL]SCCheckForTrapS_13,スネークカメラだ。,
 [CALL]SCCheckForTrapS_14,スネークだ。,
-[CALL]SCCheckForTrapS_2,オプティワンドでデバイスを探せ。,
+[CALL]SCCheckForTrapS_2,ワンドでデバイスがあるか探せ。,
 [CALL]SCCheckForTrapS_3,罠がないかチェックしろ。,
-[CALL]SCCheckForTrapS_4,オプティワンドだ。デバイスをチェックしろ。,
-[CALL]SCCheckForTrapS_5,オプティワンドだ。罠がないかチェックしろ。,
-[CALL]SCCheckForTrapS_6,オプティワンドで罠を探せ,
+[CALL]SCCheckForTrapS_4,ワンドだ。デバイスをチェックしろ。,
+[CALL]SCCheckForTrapS_5,ワンドだ。罠がないかチェックしろ。,
+[CALL]SCCheckForTrapS_6,オプティワンドで罠を探せ。,
 [CALL]SCCheckForTrapS_7,ミラーでデバイスを探せ。,
-[CALL]SCCheckForTrapS_8,そこにミラーだ。,
-[CALL]SCCheckForTrapS_9,オプティワンドを使え。,
+[CALL]SCCheckForTrapS_8,ミラーを。,
+[CALL]SCCheckForTrapS_9,ワンドを使え。,
 [CALL]SCCheckForTrap_0,ミラーで罠を探せ。,Ordering team to check for dangerous traps
 [CALL]SCCheckForTrap_1,オプティワンドで罠をチェックしろ。,Ordering team to check for dangerous traps
-[CALL]SCCheckForTrap_10,カメラだ。,Ordering team to check for dangerous traps
-[CALL]SCCheckForTrap_11,ポールカメラだ。,Ordering team to check for dangerous traps
-[CALL]SCCheckForTrap_12,デバイスを展開しろ。,Ordering team to check for dangerous traps
+[CALL]SCCheckForTrap_10,カメラを。,Ordering team to check for dangerous traps
+[CALL]SCCheckForTrap_11,ポールカメラを。,Ordering team to check for dangerous traps
+[CALL]SCCheckForTrap_12,カメラで覗いてくれ。,Ordering team to check for dangerous traps
 [CALL]SCCheckForTrap_13,スネークカメラだ。,Ordering team to check for dangerous traps
 [CALL]SCCheckForTrap_14,スネークだ。,Ordering team to check for dangerous traps
-[CALL]SCCheckForTrap_2,オプティワンドでデバイスを探せ。,Ordering team to check for dangerous traps
+[CALL]SCCheckForTrap_2,ワンドでデバイスがあるか探せ。,Ordering team to check for dangerous traps
 [CALL]SCCheckForTrap_3,罠がないかチェックしろ。,Ordering team to check for dangerous traps
-[CALL]SCCheckForTrap_4,オプティワンドだ。デバイスをチェックしろ。,Ordering team to check for dangerous traps
-[CALL]SCCheckForTrap_5,オプティワンドだ。罠がないかチェックしろ。,Ordering team to check for dangerous traps
+[CALL]SCCheckForTrap_4,ワンドだ。デバイスをチェックしろ。,Ordering team to check for dangerous traps
+[CALL]SCCheckForTrap_5,ワンドだ。罠がないかチェックしろ。,Ordering team to check for dangerous traps
 [CALL]SCCheckForTrap_6,オプティワンドで罠を探せ。,Ordering team to check for dangerous traps
 [CALL]SCCheckForTrap_7,ミラーでデバイスを探せ。,Ordering team to check for dangerous traps
-[CALL]SCCheckForTrap_8,そこにミラーだ。,Ordering team to check for dangerous traps
-[CALL]SCCheckForTrap_9,オプティワンドを使え。,Ordering team to check for dangerous traps
+[CALL]SCCheckForTrap_8,ミラーを。,Ordering team to check for dangerous traps
+[CALL]SCCheckForTrap_9,ワンドを使え。,Ordering team to check for dangerous traps
 [CALL]SCCloseDoorS_0,ドアを閉めろ。,
 [CALL]SCCloseDoorS_1,ドアを閉じろ。,
 [CALL]SCCloseDoorS_2,静かにドアを閉めろ。,
@@ -672,7 +672,7 @@ Key,Dialogue,Context
 [CALL]SCCloseDoor_5,閉めろ。静かにだ,Ordering team to close a door
 [CALL]SCCloseDoor_6,閉めろ。,Ordering team to close a door
 [CALL]SCCloseDoor_7,閉じろ。静かに。,Ordering team to close a door
-[CALL]SCCollectEvidenceS_0,その武器をしまえ。,
+[CALL]SCCollectEvidenceS_0,武器を押収しろ。,
 [CALL]SCCollectEvidenceS_1,その証拠を確保だ。,
 [CALL]SCCollectEvidenceS_10,その武器を回収しろ。,
 [CALL]SCCollectEvidenceS_11,保存だ。,
@@ -684,7 +684,7 @@ Key,Dialogue,Context
 [CALL]SCCollectEvidenceS_7,回収するんだ。,
 [CALL]SCCollectEvidenceS_8,確保しろ。,
 [CALL]SCCollectEvidenceS_9,その武器を無効化しろ。,
-[CALL]SCCollectEvidence_0,その武器をしまえ。,Ordering team to collect evidence
+[CALL]SCCollectEvidence_0,武器を押収しろ。。,Ordering team to collect evidence
 [CALL]SCCollectEvidence_1,その証拠を確保だ。,Ordering team to collect evidence
 [CALL]SCCollectEvidence_10,その武器を回収しろ。,Ordering team to collect evidence
 [CALL]SCCollectEvidence_11,回収しろ。,Ordering team to collect evidence
@@ -696,16 +696,16 @@ Key,Dialogue,Context
 [CALL]SCCollectEvidence_7,回収するんだ。,Ordering team to collect evidence
 [CALL]SCCollectEvidence_8,確保しろ。,Ordering team to collect evidence
 [CALL]SCCollectEvidence_9,その武器を無効化しろ。,Ordering team to collect evidence
-[CALL]SCCoverS_0,援護してくれ。,
-[CALL]SCCoverS_1,援護を頼む。,
-[CALL]SCCoverS_2,そのまま援護だ。,
-[CALL]SCCoverS_3,援護してくれ。,
-[CALL]SCCoverS_4,援護を。,
-[CALL]SCCover_0,援護してくれ。,Ordering team to cover you
-[CALL]SCCover_1,援護を頼む。,Ordering team to cover you
-[CALL]SCCover_2,そのまま援護だ。,Ordering team to cover you
-[CALL]SCCover_3,援護してくれ。,Ordering team to cover you
-[CALL]SCCover_4,援護を,Ordering team to cover you
+[CALL]SCCoverS_0,カバーしろ。,
+[CALL]SCCoverS_1,カバーを頼む。,
+[CALL]SCCoverS_2,カバーを確保してくれ。,
+[CALL]SCCoverS_3,カバーしてくれ。,
+[CALL]SCCoverS_4,カバーを。,
+[CALL]SCCover_0,カバーを頼む。,Ordering team to cover you
+[CALL]SCCover_1,カバーを確保してくれ。,Ordering team to cover you
+[CALL]SCCover_2,カバーしてくれ。,Ordering team to cover you
+[CALL]SCCover_3,カバーしてくれ。,Ordering team to cover you
+[CALL]SCCover_4,カバーを。,Ordering team to cover you
 [CALL]SCDeployCSGasS_0,催涙ガスを展開しろ。,
 [CALL]SCDeployCSGasS_1,催涙ガスだ。,
 [CALL]SCDeployCSGasS_2,催涙ガスをくれ。,
@@ -732,7 +732,7 @@ Key,Dialogue,Context
 [CALL]SCDeployChemlight_6,ケムライトが必要だ。,Ordering team to drop a light stick
 [CALL]SCDeployChemlight_7,ケムライトで照らせ。,Ordering team to drop a light stick
 [CALL]SCDeployChemlight_8,ケムライトで照らせ。,Ordering team to drop a light stick
-[CALL]SCDeployDoorJamS_0,ドアを閉めろ。,
+[CALL]SCDeployDoorJamS_0,ドアじゃむしろ。,
 [CALL]SCDeployDoorJamS_1,そのドアをブロックしろ。,
 [CALL]SCDeployDoorJamS_2,ドアジャマーを使え。,
 [CALL]SCDeployDoorJamS_3,そのドアにジャマーを使え。,
@@ -740,13 +740,13 @@ Key,Dialogue,Context
 [CALL]SCDeployDoorJamS_5,ドアにジャマーをつけろ。,
 [CALL]SCDeployDoorJamS_6,ドアをふさげ。,
 [CALL]SCDeployDoorJamS_7,ジャマーを使え。,
-[CALL]SCDeployDoorJam_0,ドアを閉めろ。,Ordering team to block a door
+[CALL]SCDeployDoorJam_0,ドアジャムしろ。,Ordering team to block a door
 [CALL]SCDeployDoorJam_1,そのドアをブロックしろ。,Ordering team to block a door
 [CALL]SCDeployDoorJam_2,ドアジャマーを使え。,Ordering team to block a door
 [CALL]SCDeployDoorJam_3,そのドアにジャマーを使え。,Ordering team to block a door
 [CALL]SCDeployDoorJam_4,ドアジャマーだ。,Ordering team to block a door
 [CALL]SCDeployDoorJam_5,ドアにジャマーをつけろ。,Ordering team to block a door
-[CALL]SCDeployDoorJam_6,ドアをふさげ。,Ordering team to block a door
+[CALL]SCDeployDoorJam_6,ドアを塞げ。,Ordering team to block a door
 [CALL]SCDeployDoorJam_7,ジャマーを使え。,Ordering team to block a door
 [CALL]SCDeployFlashbangS_0,フラッシュバンを展開しろ。,
 [CALL]SCDeployFlashbangS_1,フラッシュバンを使え。,
@@ -764,19 +764,19 @@ Key,Dialogue,Context
 [CALL]SCDeployFlashbang_5,フラッシュバンを投げろ。,Ordering team to throw a flash grenade
 [CALL]SCDeployFlashbang_6,フラッシュだ！,Ordering team to throw a flash grenade
 [CALL]SCDeployFlashbang_7,フラッシュを投げろ。,Ordering team to throw a flash grenade
-[CALL]SCDeployMirrorgunS_0,ミラーでデバイスを探せ。,
+[CALL]SCDeployMirrorgunS_0,ミラーでコンタクトを探せ。,
 [CALL]SCDeployMirrorgunS_1,ミラーで容疑者を探せ。,
 [CALL]SCDeployMirrorgunS_2,ミラーを使え。ターゲットを確認しろ。,
 [CALL]SCDeployMirrorgunS_3,オプティワンドを使ってターゲットを確認しろ。,
-[CALL]SCDeployMirrorgunS_4,メリット,
+[CALL]SCDeployMirrorgunS_4,ミラーを。,
 [CALL]SCDeployMirrorgunS_5,オプティワンドはどうだ？,
 [CALL]SCDeployMirrorgunS_6,オプティワンドで確認しろ。,
 [CALL]SCDeployMirrorgunS_7,ミラーガンで確認しろ。,
-[CALL]SCDeployMirrorgun_0,ミラーでデバイスを探せ。,Ordering team to look under a door
+[CALL]SCDeployMirrorgun_0,ミラーでコンタクトを探せ。,Ordering team to look under a door
 [CALL]SCDeployMirrorgun_1,ミラーで容疑者を探せ。,Ordering team to look under a door
 [CALL]SCDeployMirrorgun_2,ミラーを使え。ターゲットを確認しろ。,Ordering team to look under a door
-[CALL]SCDeployMirrorgun_3,オプティワンドを使え。ターゲットを確認しろ。,Ordering team to look under a door
-[CALL]SCDeployMirrorgun_4,ミラーを使え。,Ordering team to look under a door
+[CALL]SCDeployMirrorgun_3,オプティワンドを使ってターゲットを確認しろ。,Ordering team to look under a door
+[CALL]SCDeployMirrorgun_4,ミラーを。,Ordering team to look under a door
 [CALL]SCDeployMirrorgun_5,オプティワンドを使え。,Ordering team to look under a door
 [CALL]SCDeployMirrorgun_6,オプティワンドで確認しろ。,Ordering team to look under a door
 [CALL]SCDeployMirrorgun_7,ミラーガンで確認しろ。,Ordering team to look under a door
@@ -804,8 +804,8 @@ Key,Dialogue,Context
 [CALL]SCDisarmTrapS_11,そのデバイスを無効化しろ。,
 [CALL]SCDisarmTrapS_12,デバイスを解除しろ｡,
 [CALL]SCDisarmTrapS_2,その罠を無効化しろ。,
-[CALL]SCDisarmTrapS_3,罠を取り除く。,
-[CALL]SCDisarmTrapS_4,罠を静かに外す。,
+[CALL]SCDisarmTrapS_3,罠を取り除け。,
+[CALL]SCDisarmTrapS_4,罠を静かに外せ。,
 [CALL]SCDisarmTrapS_5,対処しろ。,
 [CALL]SCDisarmTrapS_6,処分しろ。,
 [CALL]SCDisarmTrapS_7,罠を解除するんだ｡,
@@ -817,8 +817,8 @@ Key,Dialogue,Context
 [CALL]SCDisarmTrap_11,そのデバイスを無効化しろ。,Ordering team to disarm a spotted trap
 [CALL]SCDisarmTrap_12,デバイスを解除しろ｡,Ordering team to disarm a spotted trap
 [CALL]SCDisarmTrap_2,その罠を無効化しろ。,Ordering team to disarm a spotted trap
-[CALL]SCDisarmTrap_3,罠を取り除く。,Ordering team to disarm a spotted trap
-[CALL]SCDisarmTrap_4,罠を静かに外す。,Ordering team to disarm a spotted trap
+[CALL]SCDisarmTrap_3,罠を取り除け。,Ordering team to disarm a spotted trap
+[CALL]SCDisarmTrap_4,罠を静かに外せ。,Ordering team to disarm a spotted trap
 [CALL]SCDisarmTrap_5,対処しろ。,Ordering team to disarm a spotted trap
 [CALL]SCDisarmTrap_6,処分しろ。,Ordering team to disarm a spotted trap
 [CALL]SCDisarmTrap_7,罠を解除するんだ｡,Ordering team to disarm a spotted trap
@@ -828,9 +828,9 @@ Key,Dialogue,Context
 [CALL]SCEngageLessLethal_1,レスリーサルを使え。,
 [CALL]SCEngageLessLethal_2,致命傷を避けろ！殺すな！,
 [CALL]SCEngageLessLethal_3,レスリーサルを使うんだ。,
-[CALL]SCEngageLethal_0,あいつを倒せ！,
+[CALL]SCEngageLethal_0,あいつを撃て！,
 [CALL]SCEngageLethal_1,仕留めろ！,
-[CALL]SCEngageLethal_2,致命傷を狙え！,
+[CALL]SCEngageLethal_2,リーサル！,
 [CALL]SCEngageLethal_3,リーサル！ リーサル！,
 [CALL]SCFallIn_0,離れるな。,
 [CALL]SCFallIn_1,そばにいろ。,
@@ -892,16 +892,16 @@ Key,Dialogue,Context
 [CALL]SCHold_4,そこで待機だ。,
 [CALL]SCHold_5,止まれ。,
 [CALL]SCHold_6,待て。,
-[CALL]SCKickAndClearCSGasS_0,ドアを蹴り倒して､ガスを投げて制圧だ｡,
-[CALL]SCKickAndClearCSGasS_1,蹴り倒して､部屋にガスをまいて制圧だ｡,
+[CALL]SCKickAndClearCSGasS_0,ドアを蹴り、ガスを投げて制圧だ。,
+[CALL]SCKickAndClearCSGasS_1,蹴り倒して、部屋にガスをまいて制圧だ。,
 [CALL]SCKickAndClearCSGasS_2,ドアを蹴って、催涙ガスで制圧しろ。,
-[CALL]SCKickAndClearCSGasS_3,ドアを吹き飛ばして催涙ガスで制圧だ。,
+[CALL]SCKickAndClearCSGasS_3,ドアを蹴って催涙ガスで制圧だ。,
 [CALL]SCKickAndClearCSGasS_4,蹴り飛ばして、催涙ガスで制圧しろ。,
-[CALL]SCKickAndClearCSGas_0,ドアを蹴り倒して､ガスを投げて制圧だ｡,Ordering team to ram a door and clear with gas
-[CALL]SCKickAndClearCSGas_1,蹴り倒して､部屋にガスをまいて制圧だ｡,Ordering team to ram a door and clear with gas
-[CALL]SCKickAndClearCSGas_2,ドアを蹴り倒して､催涙ガスで制圧だ。,Ordering team to ram a door and clear with gas
-[CALL]SCKickAndClearCSGas_3,ドアを蹴り倒して､催涙ガスで制圧しろ｡,Ordering team to ram a door and clear with gas
-[CALL]SCKickAndClearCSGas_4,取り壊せ。催涙ガスで制圧だ。,Ordering team to ram a door and clear with gas
+[CALL]SCKickAndClearCSGas_0,ドアを蹴り、ガスを投げて制圧だ。,Ordering team to ram a door and clear with gas
+[CALL]SCKickAndClearCSGas_1,蹴り倒して、部屋にガスをまいて制圧だ。,Ordering team to ram a door and clear with gas
+[CALL]SCKickAndClearCSGas_2,ドアを蹴って、催涙ガスで制圧しろ。,Ordering team to ram a door and clear with gas
+[CALL]SCKickAndClearCSGas_3,ドアを蹴って催涙ガスで制圧しろ。,Ordering team to ram a door and clear with gas
+[CALL]SCKickAndClearCSGas_4,蹴り飛ばして、催涙ガスで制圧しろ。,Ordering team to ram a door and clear with gas
 [CALL]SCKickAndClearDumb_1,行くぞ｡,
 [CALL]SCKickAndClearDumb_6,行け、行け、行け！,
 [CALL]SCKickAndClearDumb_7,行け,
