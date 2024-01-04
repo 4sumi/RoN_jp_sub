@@ -802,27 +802,27 @@ Key,Dialogue,Context
 [CALL]SCDisarmTrapS_1,その罠を切れ。,
 [CALL]SCDisarmTrapS_10,無効化しろ。,
 [CALL]SCDisarmTrapS_11,そのデバイスを無効化しろ。,
-[CALL]SCDisarmTrapS_12,デバイスを解除しろ｡,
+[CALL]SCDisarmTrapS_12,デバイスを解除しろ。,
 [CALL]SCDisarmTrapS_2,その罠を無効化しろ。,
 [CALL]SCDisarmTrapS_3,罠を取り除け。,
 [CALL]SCDisarmTrapS_4,罠を静かに外せ。,
 [CALL]SCDisarmTrapS_5,対処しろ。,
 [CALL]SCDisarmTrapS_6,処分しろ。,
-[CALL]SCDisarmTrapS_7,罠を解除するんだ｡,
-[CALL]SCDisarmTrapS_8,デバイスを取り除け｡,
+[CALL]SCDisarmTrapS_7,罠を解除するんだ。,
+[CALL]SCDisarmTrapS_8,デバイスを取り除け。,
 [CALL]SCDisarmTrapS_9,解除だ。,
 [CALL]SCDisarmTrap_0,あの罠を解除しろ。,Ordering team to disarm a spotted trap
 [CALL]SCDisarmTrap_1,その罠を切れ。,Ordering team to disarm a spotted trap
 [CALL]SCDisarmTrap_10,無効化しろ。,Ordering team to disarm a spotted trap
 [CALL]SCDisarmTrap_11,そのデバイスを無効化しろ。,Ordering team to disarm a spotted trap
-[CALL]SCDisarmTrap_12,デバイスを解除しろ｡,Ordering team to disarm a spotted trap
+[CALL]SCDisarmTrap_12,デバイスを解除しろ。,Ordering team to disarm a spotted trap
 [CALL]SCDisarmTrap_2,その罠を無効化しろ。,Ordering team to disarm a spotted trap
 [CALL]SCDisarmTrap_3,罠を取り除け。,Ordering team to disarm a spotted trap
 [CALL]SCDisarmTrap_4,罠を静かに外せ。,Ordering team to disarm a spotted trap
 [CALL]SCDisarmTrap_5,対処しろ。,Ordering team to disarm a spotted trap
 [CALL]SCDisarmTrap_6,処分しろ。,Ordering team to disarm a spotted trap
-[CALL]SCDisarmTrap_7,罠を解除するんだ｡,Ordering team to disarm a spotted trap
-[CALL]SCDisarmTrap_8,デバイスを取り除け｡,Ordering team to disarm a spotted trap
+[CALL]SCDisarmTrap_7,罠を解除するんだ。,Ordering team to disarm a spotted trap
+[CALL]SCDisarmTrap_8,デバイスを取り除け。,Ordering team to disarm a spotted trap
 [CALL]SCDisarmTrap_9,解除だ。,Ordering team to disarm a spotted trap
 [CALL]SCEngageLessLethal_0,レスリーサルだ。,
 [CALL]SCEngageLessLethal_1,レスリーサルを使え。,
@@ -863,13 +863,13 @@ Key,Dialogue,Context
 [CALL]SCFallinS_4,サポートを頼む。,
 [CALL]SCFallinS_5,後ろにつけ。,
 [CALL]SCFallinS_6,援護を頼む。,
-[CALL]SCFallinS_7,そばにいろ。行くぞ｡,
+[CALL]SCFallinS_7,そばにいろ。行くぞ。,
 [CALL]SCFallinSnakeS_0,後ろに続け。スネーク隊形だ。,
-[CALL]SCFallinSnakeS_1,後ろでスネーク隊形をとれ｡,
+[CALL]SCFallinSnakeS_1,後ろでスネーク隊形をとれ。,
 [CALL]SCFallinSnakeS_2,スネーク隊形をとれ,
 [CALL]SCFallinSnake_0,後ろに続け。スネーク隊形だ。,
-[CALL]SCFallinSnake_1,後ろでスネーク隊形をとれ｡,
-[CALL]SCFallinSnake_2,スネーク隊形をとれ｡,
+[CALL]SCFallinSnake_1,後ろでスネーク隊形をとれ。,
+[CALL]SCFallinSnake_2,スネーク隊形をとれ。,
 [CALL]SCFallin_0,離れるな。,Ordering team to regroup
 [CALL]SCFallin_1,そばにいろ。,Ordering team to regroup
 [CALL]SCFallin_2,背後につけ。,Ordering team to regroup
@@ -877,18 +877,18 @@ Key,Dialogue,Context
 [CALL]SCFallin_4,サポートを頼む。,Ordering team to regroup
 [CALL]SCFallin_5,後ろにつけ。,Ordering team to regroup
 [CALL]SCFallin_6,援護を頼む。,Ordering team to regroup
-[CALL]SCFallin_7,そばにいろ。行くぞ｡,Ordering team to regroup
-[CALL]SCHoldS_0,配置を維持しろ｡,
+[CALL]SCFallin_7,そばにいろ。行くぞ。,Ordering team to regroup
+[CALL]SCHoldS_0,配置を維持しろ。,
 [CALL]SCHoldS_1,ここで待機しろ。,
 [CALL]SCHoldS_2,待機だ。,
-[CALL]SCHoldS_3,待機しろ｡,
+[CALL]SCHoldS_3,待機しろ。,
 [CALL]SCHoldS_4,そこで待機だ。,
 [CALL]SCHoldS_5,止まれ。,
 [CALL]SCHoldS_6,待て。,
-[CALL]SCHold_0,配置を維持しろ｡,
+[CALL]SCHold_0,配置を維持しろ。,
 [CALL]SCHold_1,ここで待機しろ。,
 [CALL]SCHold_2,待機だ。,
-[CALL]SCHold_3,待機しろ｡,
+[CALL]SCHold_3,待機しろ。,
 [CALL]SCHold_4,そこで待機だ。,
 [CALL]SCHold_5,止まれ。,
 [CALL]SCHold_6,待て。,
@@ -902,20 +902,20 @@ Key,Dialogue,Context
 [CALL]SCKickAndClearCSGas_2,ドアを蹴って、催涙ガスで制圧しろ。,Ordering team to ram a door and clear with gas
 [CALL]SCKickAndClearCSGas_3,ドアを蹴って催涙ガスで制圧しろ。,Ordering team to ram a door and clear with gas
 [CALL]SCKickAndClearCSGas_4,蹴り飛ばして、催涙ガスで制圧しろ。,Ordering team to ram a door and clear with gas
-[CALL]SCKickAndClearDumb_1,行くぞ｡,
+[CALL]SCKickAndClearDumb_1,行くぞ。,
 [CALL]SCKickAndClearDumb_6,行け、行け、行け！,
 [CALL]SCKickAndClearDumb_7,行け,
-[CALL]SCKickAndClearFlashbangS_0,ドアを蹴り倒して､フラッシュバンを展開しろ｡,
-[CALL]SCKickAndClearFlashbangS_1,蹴り倒して、フラッシュバンを投げ込め｡,
+[CALL]SCKickAndClearFlashbangS_0,ドアを蹴り倒して、フラッシュバンを展開しろ。,
+[CALL]SCKickAndClearFlashbangS_1,蹴り倒して、フラッシュバンを投げ込め。,
 [CALL]SCKickAndClearFlashbangS_2,ドアを突き破ってフラッシュで制圧だ。,
 [CALL]SCKickAndClearFlashbangS_3,突き破ってフラッシュで制圧だ。,
 [CALL]SCKickAndClearFlashbangS_4,ドアを蹴り飛ばしてフラッシュで制圧しろ。,
-[CALL]SCKickAndClearFlashbang_0,ドアを蹴り倒して､フラッシュバンを展開しろ｡,Ordering team to ram a door and clear with flash grenade
-[CALL]SCKickAndClearFlashbang_1,蹴り倒して、フラッシュバンを投げ込め｡,Ordering team to ram a door and clear with flash grenade
+[CALL]SCKickAndClearFlashbang_0,ドアを蹴り倒して、フラッシュバンを展開しろ。,Ordering team to ram a door and clear with flash grenade
+[CALL]SCKickAndClearFlashbang_1,蹴り倒して、フラッシュバンを投げ込め。,Ordering team to ram a door and clear with flash grenade
 [CALL]SCKickAndClearFlashbang_2,ドアを突き破ってフラッシュで制圧だ。,Ordering team to ram a door and clear with flash grenade
 [CALL]SCKickAndClearFlashbang_3,蹴り飛ばしてフラッシュで制圧だ。,Ordering team to ram a door and clear with flash grenade
 [CALL]SCKickAndClearFlashbang_4,ドアを蹴り飛ばしてフラッシュで制圧しろ。,Ordering team to ram a door and clear with flash grenade
-[CALL]SCKickAndClearLauncherS_0,蹴り飛ばして制圧しろ。グレネードランチャーを使え｡,
+[CALL]SCKickAndClearLauncherS_0,蹴り飛ばして制圧しろ。グレネードランチャーを使え。,
 [CALL]SCKickAndClearLauncherS_1,蹴り飛ばして手榴弾を投げ込め。,
 [CALL]SCKickAndClearLauncherS_2,ドアを蹴り飛ばしてランチャーで制圧しろ。,
 [CALL]SCKickAndClearLauncherS_3,倒せ。ランチャーで制圧だ。,
@@ -932,14 +932,14 @@ Key,Dialogue,Context
 [CALL]SCKickAndClearLeader_2,蹴破って制圧して、合図を待て,"Swat kicks the door, once opened the squad leader will throw a grenade into the room"
 [CALL]SCKickAndClearLeader_3,ドアを蹴破れ。合図を待って制圧だ,"Swat kicks the door, once opened the squad leader will throw a grenade into the room"
 [CALL]SCKickAndClearS_0,あのドアを突き破って、部屋の制圧だ。,
-[CALL]SCKickAndClearS_1,行くぞ｡,
+[CALL]SCKickAndClearS_1,行くぞ。,
 [CALL]SCKickAndClearS_2,行け、行け、行け！,
 [CALL]SCKickAndClearS_3,突き破って、制圧だ。,
 [CALL]SCKickAndClearS_4,ドアを開けて中に入れ。,
 [CALL]SCKickAndClearS_5,突破して制圧だ。,
 [CALL]SCKickAndClearS_6,行け、行け、行け！,
 [CALL]SCKickAndClearS_7,行け！,
-[CALL]SCKickAndClearStingerS_0,ドアを蹴り倒して､スティンガーを投げろ。,
+[CALL]SCKickAndClearStingerS_0,ドアを蹴り倒して、スティンガーを投げろ。,
 [CALL]SCKickAndClearStingerS_1,ドアを蹴り倒して、スティンガーを投げろ。,
 [CALL]SCKickAndClearStingerS_2,ドアを突き破ってスティンガーで制圧だ。,
 [CALL]SCKickAndClearStingerS_3,蹴って、スティンガーで制圧しろ。,
@@ -952,7 +952,7 @@ Key,Dialogue,Context
 [CALL]SCKickAndClearStinger_4,ドアを突き破って、スティンガーで制圧だ。,Ordering team to ram a door and clear with flash grenade
 [CALL]SCKickAndClearStinger_5,蹴って、スティンガーを展開しろ。,Ordering team to ram a door and clear with flash grenade
 [CALL]SCKickAndClear_0,あのドアを突き破って、部屋の制圧だ。,Ordering team to kick down a door and move into a room
-[CALL]SCKickAndClear_1,行くぞ｡,Ordering team to kick down a door and move into a room
+[CALL]SCKickAndClear_1,行くぞ。,Ordering team to kick down a door and move into a room
 [CALL]SCKickAndClear_2,行け、行け、行け。,Ordering team to kick down a door and move into a room
 [CALL]SCKickAndClear_3,突き破って、制圧だ。,Ordering team to kick down a door and move into a room
 [CALL]SCKickAndClear_4,ドアを開けて中に入れ。,Ordering team to kick down a door and move into a room
@@ -1095,16 +1095,16 @@ Key,Dialogue,Context
 [CALL]SCMoveTo_5,あそこだ。,Ordering team to move to location
 [CALL]SCMoveTo_6,あそこに動け。,Ordering team to move to location
 [CALL]SCMoveTo_7,あそこだ。,Ordering team to move to location
-[CALL]SCOpenAndClearCSGasS_0,開いて､催涙ガスで制圧しろ｡,
+[CALL]SCOpenAndClearCSGasS_0,開いて、催涙ガスで制圧しろ。,
 [CALL]SCOpenAndClearCSGasS_1,ドアを開いて、催涙ガスで制圧だ。,
-[CALL]SCOpenAndClearCSGasS_2,開け。ガスを使って制圧だ｡,
+[CALL]SCOpenAndClearCSGasS_2,開け。ガスを使って制圧だ。,
 [CALL]SCOpenAndClearCSGasS_3,ドアを開けて催涙ガスを投げろ。,
 [CALL]SCOpenAndClearCSGasS_4,ドアを開けて、催涙ガスで制圧だ。,
 [CALL]SCOpenAndClearCSGasS_5,開けろ。催涙ガスで制圧だ。,
 [CALL]SCOpenAndClearCSGasS_6,開けてガスだ。,
 [CALL]SCOpenAndClearCSGas_0,開けろ。催涙ガスを展開して制圧だ。,Ordering team to open a door and clear with gas
 [CALL]SCOpenAndClearCSGas_1,ドアを開いて、催涙ガスで制圧だ。,Ordering team to open a door and clear with gas
-[CALL]SCOpenAndClearCSGas_2,開け。ガスを使って制圧だ｡,Ordering team to open a door and clear with gas
+[CALL]SCOpenAndClearCSGas_2,開け。ガスを使って制圧だ。,Ordering team to open a door and clear with gas
 [CALL]SCOpenAndClearCSGas_3,ドアを開けて催涙ガスを使え。,Ordering team to open a door and clear with gas
 [CALL]SCOpenAndClearCSGas_4,ドアを開けて催涙ガスで制圧だ。,Ordering team to open a door and clear with gas
 [CALL]SCOpenAndClearCSGas_5,開けろ。催涙ガスで制圧だ。,Ordering team to open a door and clear with gas
@@ -1218,9 +1218,9 @@ Key,Dialogue,Context
 [CALL]SCRamAndClearCSGas_0,ラム、ガス、制圧だ。,Ordering team to ram a door and clear with gas
 [CALL]SCRamAndClearCSGas_1,ラムを使い、ガスをまいて制圧だ。,Ordering team to ram a door and clear with gas
 [CALL]SCRamAndClearCSGas_2,ドアを開けて、催涙ガスで制圧だ。,Ordering team to ram a door and clear with gas
-[CALL]SCRamAndClearCSGas_3,ドアを蹴り倒して､催涙ガスで制圧しろ｡,Ordering team to ram a door and clear with gas
+[CALL]SCRamAndClearCSGas_3,ドアを蹴り倒して、催涙ガスで制圧しろ。,Ordering team to ram a door and clear with gas
 [CALL]SCRamAndClearCSGas_4,取り壊せ。催涙ガスで制圧だ。,Ordering team to ram a door and clear with gas
-[CALL]SCRamAndClearFlashbangS_0,ドアを潰して､フラッシュバンを展開しろ｡,
+[CALL]SCRamAndClearFlashbangS_0,ドアを潰して、フラッシュバンを展開しろ。,
 [CALL]SCRamAndClearFlashbangS_1,ドアをラムで開けて、部屋にフラッシュバンだ。,
 [CALL]SCRamAndClearFlashbangS_2,ドアを突き破ってフラッシュで制圧だ。,
 [CALL]SCRamAndClearFlashbangS_3,ラム、フラッシュ、制圧だ。,
@@ -1250,7 +1250,7 @@ Key,Dialogue,Context
 [CALL]SCRamAndClearS_5,突破して制圧だ。,
 [CALL]SCRamAndClearS_6,行け、行け、行け！,
 [CALL]SCRamAndClearS_7,行け！,
-[CALL]SCRamAndClearStingerS_0,ドアをラムで潰して､スティンガーを投げろ。,
+[CALL]SCRamAndClearStingerS_0,ドアをラムで潰して、スティンガーを投げろ。,
 [CALL]SCRamAndClearStingerS_1,ドアをラムで潰して、スティンガーを投げろ。,
 [CALL]SCRamAndClearStingerS_2,ドアをラムで潰して、スティンガーを投げろ。,
 [CALL]SCRamAndClearStingerS_3,ラムで潰して、スティンガーで制圧しろ。,
@@ -1263,7 +1263,7 @@ Key,Dialogue,Context
 [CALL]SCRamAndClearStinger_4,ドアを突き破って、スティンガーで制圧だ。,Ordering team to ram a door and clear with flash grenade
 [CALL]SCRamAndClearStinger_5,ラムで潰して、スティンガーを展開しろ。,Ordering team to ram a door and clear with flash grenade
 [CALL]SCRamAndClear_0,あのドアを突き破って、部屋の制圧だ。,Ordering team to kick down a door and move into a room
-[CALL]SCRamAndClear_1,行くぞ｡,Ordering team to kick down a door and move into a room
+[CALL]SCRamAndClear_1,行くぞ。,Ordering team to kick down a door and move into a room
 [CALL]SCRamAndClear_2,行け、行け、行け。,Ordering team to kick down a door and move into a room
 [CALL]SCRamAndClear_3,突き破って、制圧だ。,Ordering team to kick down a door and move into a room
 [CALL]SCRamAndClear_4,ドアを開けて中に入れ。,Ordering team to kick down a door and move into a room
@@ -1297,7 +1297,7 @@ Key,Dialogue,Context
 [CALL]SCResumeS_2,再開だ。,
 [CALL]SCResumeS_3,行くぞ。,
 [CALL]SCResumeS_4,続行だ。,
-[CALL]SCResumeS_5,行くぞ｡,
+[CALL]SCResumeS_5,行くぞ。,
 [CALL]SCResumeS_6,大丈夫だ。,
 [CALL]SCResumeS_7,よし。,
 [CALL]SCResumeS_8,問題なし。,
@@ -1306,7 +1306,7 @@ Key,Dialogue,Context
 [CALL]SCResume_2,再開だ。,
 [CALL]SCResume_3,行くぞ。,
 [CALL]SCResume_4,続行だ。,
-[CALL]SCResume_5,行くぞ｡,
+[CALL]SCResume_5,行くぞ。,
 [CALL]SCResume_6,大丈夫だ。,
 [CALL]SCResume_7,よし。,
 [CALL]SCResume_8,問題なし。,
